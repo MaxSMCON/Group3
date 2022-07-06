@@ -24,8 +24,8 @@ This is going to be used for Group 3 Project
 
 **
 
-** Links to Kaggle examples: https://www.kaggle.com/code/ashvanths/statistical-analysis-of-top-hits-in-spotify
-
+* Links to Kaggle examples: https://www.kaggle.com/code/ashvanths/statistical-analysis-of-top-hits-in-spotify
+* towards data science: https://towardsdatascience.com/machine-learning-and-recommender-systems-using-your-own-spotify-data-4918d80632e3
 
   
 * https://colab.research.google.com/github/tofighi/BigData/blob/main/Assignment1_Template.ipynb
