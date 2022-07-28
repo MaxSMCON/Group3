@@ -29,3 +29,10 @@ This is going to be used for Group 3 Project
 
   
 * https://colab.research.google.com/github/tofighi/BigData/blob/main/Assignment1_Template.ipynb
+# Project Goals
+## Vectorization
+## Vizualization
+## Statistic 
+## Feature Eng
+
+
