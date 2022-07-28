@@ -4,7 +4,10 @@
 # Group3
 This is going to be used for Group 3 Project
 * https://colab.research.google.com/github/tofighi/BigData/blob/main/Assignment1_Template.ipynb
-
+ 
+ # Power Bi File
+https://github.com/MaxSMCON/Group3/blob/8c996638dc4ce7fb602eecef3ee6b0f5dd2433de/Spotify.pbix
+ 
 ## Start looking at the topics for Big Data
   Spark,
   Machine learaning
