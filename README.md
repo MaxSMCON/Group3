@@ -36,9 +36,20 @@ https://github.com/MaxSMCON/Group3/blob/8c996638dc4ce7fb602eecef3ee6b0f5dd2433de
   
 * https://colab.research.google.com/github/tofighi/BigData/blob/main/Assignment1_Template.ipynb
 # Project Goals
-## Vectorization
-## Vizualization
-## Statistic 
-## Feature Eng
+## Vectorization - Maxim
+## Vizualization - Maxim / Irina 
+## Statistic - Inferences - OLS - linear dependecies - correlation matrix
+## Feature Eng - Kevin / Sivi (Kevin has ideas)
+## Pipeline - data 
+## Report Writing - Maxim to start the doc file for abstract and whole report. 
+## Features Contribution - By Country, Years
+### At similarity btwn Countries - most popular tracks
+### Kind of music similar  and different btwn countries
+
+* Abstract https://docs.google.com/document/d/1NGdYdoxyww9_QWh8Ifh3aQhN6GnRZG6gCbDZi2qB-gs/edit
+* Report https://docs.google.com/document/d/1JRcp2xBfxzjTxALjE7IYORLP7BdUjS7cGdEMCnL7uT0/edit
+
+
+
 
 
