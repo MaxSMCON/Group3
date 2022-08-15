@@ -48,6 +48,7 @@ https://github.com/MaxSMCON/Group3/blob/8c996638dc4ce7fb602eecef3ee6b0f5dd2433de
 
 * Abstract https://docs.google.com/document/d/1NGdYdoxyww9_QWh8Ifh3aQhN6GnRZG6gCbDZi2qB-gs/edit
 * Report https://docs.google.com/document/d/1JRcp2xBfxzjTxALjE7IYORLP7BdUjS7cGdEMCnL7uT0/edit
+* Summary https://docs.google.com/document/d/1262g5VVfkgqeoef6JpPxGa_zajGkiFQtlrZfb2cjDKk/edit#
 
 
 
